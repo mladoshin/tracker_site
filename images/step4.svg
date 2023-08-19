@@ -1,0 +1,15 @@
+<svg width="64" height="30" viewBox="0 0 64 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M47 14C47.5523 14 48 13.5523 48 13C48 12.4477 47.5523 12 47 12C46.4477 12 46 12.4477 46 13C46 13.5523 46.4477 14 47 14Z" fill="#1AB248"/>
+<path d="M42 14C42.5523 14 43 13.5523 43 13C43 12.4477 42.5523 12 42 12C41.4477 12 41 12.4477 41 13C41 13.5523 41.4477 14 42 14Z" fill="#1AB248"/>
+<path d="M38 14C38.5523 14 39 13.5523 39 13C39 12.4477 38.5523 12 38 12C37.4477 12 37 12.4477 37 13C37 13.5523 37.4477 14 38 14Z" fill="#1AB248"/>
+<path d="M33 14C33.5523 14 34 13.5523 34 13C34 12.4477 33.5523 12 33 12C32.4477 12 32 12.4477 32 13C32 13.5523 32.4477 14 33 14Z" fill="#1AB248"/>
+<path d="M28.5 14C29.3284 14 30 13.5523 30 13C30 12.4477 29.3284 12 28.5 12C27.6716 12 27 12.4477 27 13C27 13.5523 27.6716 14 28.5 14Z" fill="#1AB248"/>
+<path d="M24 14C24.5523 14 25 13.5523 25 13C25 12.4477 24.5523 12 24 12C23.4477 12 23 12.4477 23 13C23 13.5523 23.4477 14 24 14Z" fill="#1AB248"/>
+<path d="M22 18C18.2222 17.5714 14.4444 16.6071 11 15" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.77518 12.6067C6.1991 12.2697 5.73824 11.9326 5.27738 11.5955L3.66438 10.6966C3.0883 10.2472 2.85787 9.68539 3.0883 9.01124C3.20352 8.44944 3.77959 8 4.47088 8H5.62303H16.9141H32.0072H41.3396H54.2437C55.3958 8 56.4328 8.33708 57.3545 8.89888L58.0458 9.34831L61.2718 11.3708L61.8479 11.7079C62.5391 12.1573 63 13.0562 63 13.8427C63 14.7416 62.4239 15.5281 61.7326 15.8652L61.1566 16.2022C58.8523 17.4382 56.3175 18 53.7828 18H32.5833" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.71429 8L1 1H6.71429L17 8" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37 16H25.3333L9 29H15.65L37 16Z" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 8L42.2857 1H48L41.1429 8" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.5714 9C57.5714 9 54.9429 11.3931 53 11.3931V14.9826C53 14.9826 57.1143 15.4612 61 11.3931" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15 13H7.8L3 17H7.8L15 13Z" stroke="#1AB248" stroke-width="1.4" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
